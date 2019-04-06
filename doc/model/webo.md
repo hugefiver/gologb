@@ -28,7 +28,7 @@ id
 
 ## comment_body
 
-> `user`: int = `user.id`
+> `poster`: int = `user.id`
 
 发布用户
 
@@ -38,7 +38,7 @@ id
 
 > `datetime`: time
 
-发布世界
+发布时间
 
 > `text`: string
 
