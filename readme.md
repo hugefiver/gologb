@@ -1,4 +1,4 @@
-# GOLOGB let me Often think Code Golang to a Blog Platform
+# GOLOGB Let me Often think Code Golang to a Blog Platform
 
 ## Flag
 
