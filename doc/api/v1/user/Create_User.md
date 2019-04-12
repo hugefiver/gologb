@@ -18,6 +18,9 @@
 ```json
 {
     "error": 0,
-    "body": {}
+    "body": {
+        "id": 1,
+        "errmsg": ""
+    }
 }
 ```
