@@ -15,7 +15,7 @@ Type: `json`
         "name": "",
         "favtar": "{link}"
     },
-    "panel_details": {
+    "platform_details": {
         "articles": 0,
         "webos": 0,
         "following": 0, // This user following
