@@ -1,6 +1,6 @@
 # Get User Webos
 
-* PATH: `user/webos`
+* PATH: `user/{{user_id}}/webos`
 * Method: `get`
 
 ## Query
